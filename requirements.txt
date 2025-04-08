@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+datetime
+
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+azure-storage-blob
+openpyxl
+
+dotenv
